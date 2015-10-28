@@ -3,7 +3,13 @@ dogeweather
 
 Such Weather
 
+wow scattered clouds
+
 http://dogeweather.com
+
+such brisk
+
+so moderate
 
 License
 ===========
